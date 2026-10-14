@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Generated data and experiment artifacts
+data/raw/qasper/*.parquet
+data/processed/*
+!data/processed/.gitkeep
+artifacts/*
+!artifacts/.gitkeep
+logs/*
+!logs/.gitkeep
+reports/generated/*
+!reports/generated/.gitkeep
+
+# Model caches can be very large
+.cache/
+

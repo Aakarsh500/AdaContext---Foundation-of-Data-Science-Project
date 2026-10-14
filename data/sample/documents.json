@@ -1,0 +1,111 @@
+[
+  {
+    "id": "northbridge-water",
+    "title": "Northbridge Recycled Water Pilot: Final Technical Summary",
+    "metadata": {"domain": "urban infrastructure", "year": 2024},
+    "sections": [
+      {
+        "name": "Programme overview",
+        "text": "Northbridge began a three-year recycled-water pilot in July 2022 at the East Bank treatment plant. The programme was designed to reduce the use of drinking-quality water for irrigation and selected industrial processes. Before the pilot, municipal parks used an annual average of 1.67 billion litres of potable water. The city set two operational targets: supply at least 1.2 million litres of recycled water per day during the irrigation season and maintain service availability above 95 percent. The pilot initially served eight public parks and three industrial customers."
+      },
+      {
+        "name": "Treatment and distribution design",
+        "text": "Wastewater leaving the conventional secondary treatment stage passed through ultrafiltration, ultraviolet disinfection, and a final chlorination barrier. The nominal production capacity was 1.8 million litres per day. Two storage tanks, each holding 500,000 litres, helped balance daytime demand. A fourteen-kilometre purple-pipe network separated recycled water from the drinking-water system. Smart meters transmitted flow and pressure readings every fifteen minutes. If turbidity or disinfectant residual moved outside the permitted range, automated valves diverted water back to the treatment inlet instead of allowing it into the distribution network."
+      },
+      {
+        "name": "Operational results",
+        "text": "Across the first eighteen months of measured operation, the plant delivered an average of 1.42 million litres per day and reached a peak of 1.76 million litres. Service availability was 96.2 percent. Potable water used for landscape irrigation at participating parks fell by 31 percent compared with the weather-adjusted baseline. Electricity consumption for advanced treatment averaged 0.68 kilowatt-hours per cubic metre. Operators recorded eleven short turbidity events. Every event triggered automatic diversion, and none of the affected water entered the customer network. Most unplanned downtime resulted from two pump failures and a regional power interruption."
+      },
+      {
+        "name": "Economics and expansion",
+        "text": "The pilot required 8.4 million dollars in capital expenditure. Operating cost averaged 0.57 dollars per cubic metre, while the city paid an avoided marginal cost of 1.21 dollars per cubic metre for potable supply. At the observed demand, the simple payback period was estimated at 11.6 years. A proposed connection to the Riverside sports complex would raise utilisation of the existing treatment assets and shorten estimated payback to 9.4 years. These estimates exclude financing costs and assume that electricity prices rise by two percent per year."
+      },
+      {
+        "name": "Public response and limitations",
+        "text": "Public acceptance increased from 72 percent before commissioning to 86 percent after residents received site tours and water-quality reports. Seventeen odour complaints were received during the first month. Flushing stagnant sections of pipe and changing the storage-tank mixing schedule resolved the issue. The evaluation covers only eighteen months, including an unusually wet irrigation season. It therefore cannot establish long-term equipment life or savings during prolonged drought. Industrial demand also came from only three customers, limiting the reliability of projections for city-wide expansion."
+      }
+    ]
+  },
+  {
+    "id": "cedar-heat",
+    "title": "Cedar Valley Heat-Health Response Evaluation",
+    "metadata": {"domain": "public health", "year": 2025},
+    "sections": [
+      {
+        "name": "Study design",
+        "text": "Cedar Valley evaluated its heat-health response over the summers of 2023 and 2024. Twelve neighbourhoods were paired using population age, income, tree cover, and historical emergency-call rates. Six intervention neighbourhoods received the expanded programme and six retained the standard city response. The main outcome was heat-related emergency department visits per 100,000 residents on days when the maximum temperature exceeded 38 degrees Celsius. Researchers also examined ambulance calls, cooling-centre attendance, and household knowledge."
+      },
+      {
+        "name": "Intervention",
+        "text": "The expanded programme combined forecasts with targeted action. Alerts were issued forty-eight hours before a predicted extreme-heat day. Community health workers telephoned registered residents aged seventy or older and people with selected cardiac conditions. Fourteen air-conditioned cooling centres remained open until 10 p.m., and three electric shuttle buses connected high-risk housing blocks to the centres. The city distributed reusable water containers but did not provide air conditioners or pay household electricity bills. Standard-response areas received public weather alerts and normal library opening hours."
+      },
+      {
+        "name": "Health outcomes",
+        "text": "During qualifying heat days, intervention neighbourhoods recorded 28.4 heat-related emergency visits per 100,000 residents, compared with 36.9 in matched standard-response neighbourhoods. After adjustment for age and baseline illness, the estimated reduction was 21 percent, with a 95 percent confidence interval from 8 percent to 32 percent. Ambulance calls declined by 14 percent, but the confidence interval included no effect. No statistically reliable change was observed on days below the 38-degree threshold. The effect was largest among residents aged seventy-five and older."
+      },
+      {
+        "name": "Use and cost",
+        "text": "Cooling centres recorded 18,620 visits across the two summers. Forty-three percent of visitors arrived after 6 p.m., supporting the decision to extend opening hours. The shuttle buses carried 3,140 passengers; surveys indicated that 61 percent of those passengers would otherwise have stayed at home. Programme operating expenditure was 1.26 million dollars, equivalent to 68 dollars per cooling-centre visit or approximately 4,900 dollars per estimated emergency visit avoided. Health-worker calls accounted for the largest staff cost."
+      },
+      {
+        "name": "Equity and limitations",
+        "text": "Attendance was lower in two neighbourhoods where the most common home language was not English. Translated alerts introduced midway through 2024 improved attendance but did not remove the gap. The evaluation was observational at neighbourhood level rather than individually randomised. Smoke from a regional wildfire affected three standard-response neighbourhoods during one heat episode, and personal exposure was estimated from the nearest weather station. These factors mean the findings support association, not definitive individual-level causation."
+      }
+    ]
+  },
+  {
+    "id": "lakeside-microgrid",
+    "title": "Lakeside Campus Microgrid Demonstration",
+    "metadata": {"domain": "energy systems", "year": 2025},
+    "sections": [
+      {
+        "name": "System configuration",
+        "text": "Lakeside University commissioned a campus microgrid in March 2023. The system combines a 2.4-megawatt rooftop solar array, a 5.1-megawatt-hour lithium iron phosphate battery, and existing natural-gas generators reserved for emergencies. A supervisory controller forecasts building demand, solar production, and electricity prices every thirty minutes. Its primary goals are to reduce peak grid imports, maintain power to critical buildings during outages, and lower annual operating cost without increasing campus carbon emissions."
+      },
+      {
+        "name": "Dispatch policy",
+        "text": "On ordinary days, the battery charges from midday solar generation and discharges during the utility's 4 p.m. to 9 p.m. peak-price period. The controller keeps at least 35 percent state of charge whenever an outage warning is active. During grid failure, the science laboratory, health clinic, data centre, and two residence halls form the critical load. Gas generators may start only when predicted battery energy is insufficient to support that load for four hours. Non-critical air conditioning and vehicle charging are automatically suspended during islanded operation."
+      },
+      {
+        "name": "Performance",
+        "text": "In the first full operating year, the microgrid reduced the campus monthly peak demand by an average of 17.8 percent. Solar energy supplied 19 percent of annual campus electricity, and 83 percent of solar production was consumed on site. Battery round-trip efficiency averaged 89.6 percent. During four utility outages, the system maintained all designated critical loads. The longest outage lasted six hours and twelve minutes; gas generators operated for the final ninety-four minutes because the outage began after two cloudy days."
+      },
+      {
+        "name": "Finance and emissions",
+        "text": "Installed cost was 12.7 million dollars, including switchgear and controls. Grants covered 4.2 million dollars. Demand-charge savings were 610,000 dollars in the first year, while energy-arbitrage savings were 148,000 dollars. Maintenance and software subscriptions cost 96,000 dollars. Accounting for measured battery losses and generator use, campus electricity-related emissions declined by 11.3 percent. The financial model estimates a 10.8-year payback on the university's net investment, but this depends strongly on future demand charges."
+      },
+      {
+        "name": "Degradation and study limits",
+        "text": "Battery testing after twelve months found usable capacity at 97.4 percent of its commissioned value. Engineers attributed roughly half of the loss to normal calendar ageing and half to cycling. The controller was updated to avoid charging above 95 percent when no storm warning was present. The report covers only one complete year, so it does not establish long-term degradation or performance under many consecutive cloudy days. It also excludes the embodied emissions of manufacturing the solar panels and battery."
+      }
+    ]
+  },
+  {
+    "id": "oakridge-library",
+    "title": "Oakridge University Digital Library Accessibility Audit",
+    "metadata": {"domain": "digital accessibility", "year": 2024},
+    "sections": [
+      {
+        "name": "Audit scope",
+        "text": "Oakridge University audited its digital library between January and May 2024. The sample contained 1,200 journal articles, 180 electronic books, 75 research databases, and the six most-used library web applications. Automated tests were supplemented by keyboard-only navigation, screen-reader sessions, and interviews with thirty-two students with disabilities. The audit used WCAG 2.2 level AA as its target and treated vendor-hosted resources separately from pages controlled directly by the university."
+      },
+      {
+        "name": "Findings",
+        "text": "Seventy-eight percent of university-controlled pages met all tested criteria, compared with 54 percent of vendor-hosted interfaces. The most frequent failure was missing or uninformative alternative text, found in 29 percent of sampled article figures. Nineteen percent of electronic books had reading-order problems. Four database interfaces trapped keyboard focus inside modal windows. Colour contrast failures were common in older subject guides but uncommon in the main search application. Automated tools detected only 41 percent of the issues confirmed through manual testing."
+      },
+      {
+        "name": "User impact",
+        "text": "Screen-reader users required a median of 6.8 minutes to locate and download a known article, compared with 2.1 minutes for participants who did not use assistive technology. When accessible HTML was available alongside PDF, the median time for screen-reader users fell to 3.4 minutes. Students identified inconsistent link labels and inaccessible authentication pop-ups as more disruptive than isolated colour-contrast errors. Seven interviewees reported abandoning at least one database task during the previous semester."
+      },
+      {
+        "name": "Remediation programme",
+        "text": "The university assigned highest priority to authentication, search, and document-download barriers. It remediated all locally controlled critical defects by September 2024 and added accessibility requirements to new procurement contracts. Existing vendors received ninety-day correction notices, but contracts allowed termination only at renewal. Library staff created accessible HTML summaries for the 200 most-requested older documents and began training repository depositors to write descriptive alternative text. The approved first-year remediation budget was 340,000 dollars."
+      },
+      {
+        "name": "Follow-up and limitations",
+        "text": "A November 2024 follow-up found that university-controlled page compliance had risen from 78 percent to 94 percent. Vendor-hosted compliance rose from 54 percent to 63 percent. Median known-article retrieval time for screen-reader users improved to 4.1 minutes, although the follow-up used only fourteen participants. Because the original resource sample emphasised frequently used materials, the findings may overstate accessibility across rare archival collections. The audit also measured technical conformance and task completion, not long-term academic outcomes."
+      }
+    ]
+  }
+]
+
